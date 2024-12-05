@@ -12,7 +12,7 @@ The goal here isn’t just to roast but to entertain while educating, delivering
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
-[Software Roast](https://github.com/sourceduty/Hardware_Roast)
+[Software Roast](https://github.com/sourceduty/Software_Roast)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
