@@ -28,6 +28,10 @@ In summary: Cool concept, absurd execution. It’s less “PC” and more “sci
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Software Roast](https://github.com/sourceduty/Software_Roast)
+<br>
+[Laptop Design](https://github.com/sourceduty/Laptop_Design)
+<br>
+[PC Design](https://github.com/sourceduty/PC_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
