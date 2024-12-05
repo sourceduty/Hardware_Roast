@@ -8,7 +8,7 @@
 The goal here isn’t just to roast but to entertain while educating, delivering critiques with a comedic punch that’ll make even the most die-hard fans of a product chuckle—while secretly questioning their choices. Whether it’s exposing manufacturers cutting corners, laughing at outdated tech pretending it’s still relevant, or dragging poorly optimized software that’s one patch away from implosion, Hardware Roast takes no prisoners. But don’t worry, it’s all in good fun; it’s not here to ruin anyone’s day—just to point out that maybe, just maybe, a $200 keyboard shouldn’t require a driver install larger than an entire indie game.
 
 #
-### Example
+### PC Roast Example
 
 ![CO2 Gas-Cooled Computer](https://github.com/user-attachments/assets/ca12466b-82ac-4492-876e-174219384803)
 
@@ -21,6 +21,17 @@ And let’s talk practicality. You’ve strapped a literal gas canister to your 
 But the pièce de résistance? The giant “GAS-COOLED” label on the PSU shroud. Oh, we get it. You’re edgy. You’re the Steve Jobs of PC cooling. But when this monstrosity inevitably leaks and you’re left staring at a fried GPU, remember: you could’ve just bought a Noctua air cooler like the rest of us peasants.
 
 In summary: Cool concept, absurd execution. It’s less “PC” and more “science experiment waiting to explode.”
+
+#
+### Laptop Roast Example
+
+![JD Laptop](https://github.com/user-attachments/assets/c3ab8fb5-1d5c-411d-856b-6294cb49904a)
+
+Oh, look at this green tractor of a laptop trying to cosplay as cutting-edge tech! A John Deere sticker on a computer? Perfect for when you need to debug code and harvest corn in the same breath. Does it come with “Farmer Simulator 2024” pre-installed, or do you have to plow through that yourself?
+
+And what’s with the placement on the log? Are you hoping it’ll sprout roots and grow into a server farm? The aesthetic screams “built for the fields,” but I bet the internals are as modern as a flip phone. Are we running a quad-core CPU here, or are we hitching this thing to a horse to pull the browser tabs along?
+
+Also, those yellow accents at the bottom corners... Are they placeholders for a mini hay baler attachment? Or maybe they’re just there to remind us it’s sturdy enough to survive falling off a tractor bed—but not your expectations. 🌾
 
 #
 ### Related Links
